@@ -1,5 +1,5 @@
 # primes
-print all prime numbers < 264
+print all prime numbers < 2<sup>64</sup>
 
 If only one argument (n) is given, primes prints all prime numbers up to n.
 
